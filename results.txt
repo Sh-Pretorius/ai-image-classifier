@@ -1,0 +1,5 @@
+Border_collie: 87.38%
+collie: 10.11%
+groenendael: 0.65%
+Shetland_sheepdog: 0.12%
+schipperke: 0.07%
