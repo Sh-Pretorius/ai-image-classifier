@@ -1,6 +1,4 @@
 # Image Recognition App
-
-## Project Introduction
 This project uses OpenCV and TensorFlow to classify images provided by the user via command line. 
 
 ## Features
